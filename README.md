@@ -2,10 +2,11 @@
 
 ## How to start 
 
-Start the server first and wait for listening from clients :
+Start the server first  :
 ```
 python server.py
 ```
+The server is listening now.
 Then for every client needed you have to create a new terminal, for each one tap :
 ``` 
 python client.py
